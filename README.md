@@ -1,1 +1,1 @@
-I am practicing cloning git using this project.
+# git-clone-practice
